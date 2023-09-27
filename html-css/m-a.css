@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+#g-div{
+    
+    margin: auto;
+    background-color: rgba(153, 141, 141, 0.801);
+    width: 850px;
+    text-align: center;
+}
+#img-div{
+    height: 750;
+    width: 750px;
+    margin: auto;
+}
+#inform-div{
+    width: 600px;
+    margin: auto;
+}
