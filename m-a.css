@@ -1,0 +1,52 @@
+*{
+    font-family: 'League Spartan', sans-serif;
+    line-height: 19px;
+    
+}
+body{
+background-image: url(../img/ring-muhammed.jpg);
+background-repeat:no-repeat;
+background-attachment: fixed;
+-webkit-background-size:100% 100% ;
+background-size: 100% 100%;
+    /* background-color: black; */
+    margin-top: 100px;
+}
+#g-div{
+    
+    margin:auto;
+    background-color: rgb(71, 66, 66);
+    width: 850px;
+    border-radius: 50px;
+}
+#img-div{
+    height: 750;
+    width: 750px;
+    margin: auto;
+}
+#inform-div{
+padding-bottom: 18px;
+margin: 20px 16px;
+}
+#title{
+ padding-top: 8px;
+ text-align: center;
+}
+#date{
+text-align: center;
+    
+}
+.subtitle{
+    text-indent:25px;
+    font-size: 20px;
+}
+#wiki-link{
+text-decoration: none;
+padding: 3px;
+border: 2px blue solid;
+
+}
+#wiki-link:hover{
+color: white;
+background-color: darkorange;
+}
